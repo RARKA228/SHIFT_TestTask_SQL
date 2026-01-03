@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15f97e4b-cd95-48e5-b26c-f9db1d04331b/console.sql" value="15f97e4b-cd95-48e5-b26c-f9db1d04331b" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15f97e4b-cd95-48e5-b26c-f9db1d04331b/console_1.sql" value="15f97e4b-cd95-48e5-b26c-f9db1d04331b" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15f97e4b-cd95-48e5-b26c-f9db1d04331b/create_scripts.sql" value="15f97e4b-cd95-48e5-b26c-f9db1d04331b" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15f97e4b-cd95-48e5-b26c-f9db1d04331b/insert.sql" value="15f97e4b-cd95-48e5-b26c-f9db1d04331b" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15f97e4b-cd95-48e5-b26c-f9db1d04331b/task3.sql" value="15f97e4b-cd95-48e5-b26c-f9db1d04331b" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15f97e4b-cd95-48e5-b26c-f9db1d04331b/task4.sql" value="15f97e4b-cd95-48e5-b26c-f9db1d04331b" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15f97e4b-cd95-48e5-b26c-f9db1d04331b/task5.sql" value="15f97e4b-cd95-48e5-b26c-f9db1d04331b" />
+  </component>
+</project>
